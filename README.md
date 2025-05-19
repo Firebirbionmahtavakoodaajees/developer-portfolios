@@ -232,6 +232,7 @@ Hopefully this repo can serve as a source of inspiration for your portfolio!
 - [Bishnu Pokhrel](https://bishnupokhrel.netlify.app) [Full Stack Laravel Vue Developer]
 - [Bishwa Bhusal](https://bishwo.info.np) [Graduate Researcher @ UTS]
 - [Bjorn Melin](https://bjornmelin.io) [Data Scientist]
+- [Birdly] (https://birdly.lol) [Photographer]
 - [Blanc John Clayton](https://www.johnclaytonblanc.com)
 - [Bob Matyas](https://www.bobmatyas.com)
 - [Bogdan Marić](https://bogdanmaric.dev)
